@@ -1,5 +1,3 @@
-mod print;
-
 fn main() {
-    print::run()
+    println!("{}", std::i128::MIN)
 }
