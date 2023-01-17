@@ -3,7 +3,10 @@
 // mod conditionals;
 // mod strings;
 // mod loops;
-mod functions;
+// mod functions;
+// mod pointers;
+// mod structs;
+mod enums;
 
 fn main() {
     // vectors::run();
@@ -11,7 +14,10 @@ fn main() {
     // strings::run();
     // tuples::run();
     // loops::run();
-    functions::run();
+    // functions::run();
+    // pointers::run();
+    // structs::run();
+    enums::run();
 
     // println!("{:?}", (is_active, is_greater, face))
 }
